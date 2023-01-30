@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Hamza
+- 👋 Hi, This is Muhammad Hamza
 - 💞️ Over the course of three years in software industry, I have attained significant experience coding with a variety of programming languages, working directly with corporate leadership and clients. I believe I would be an excellent addition to the team.
 - 🌱 Working in my current position as a software engineer, I have three years of experience with full stack web development, my main stack is MERN, and I have 2 years of hands-on experience with Telecom related projects.
 - 📫 Feel free to contact me at +92-305-3467695, mhamzasakhi@gmail.com, or mhamzasakhi.com
