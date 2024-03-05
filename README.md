@@ -1,6 +1,6 @@
-- 👋 Hi, This is Muhammad Hamza
-- 💞️ Over the course of five years in software industry, I have attained significant experience coding with a variety of programming languages, working directly with corporate leadership and clients. I believe I would be an excellent addition to the team.
-- 🌱 Working in my current position as a Senior software engineer, I have five years of experience with full stack web development, my main stack is MERN, and I have 2 years of hands-on experience with Telecom related projects.
+- 👋 Hi, This is Muhammad Hamza, I'm a Full Stack Engineer
+- 💞️ I've got more than 5 years of experience in NodeJS (ExpressJS, NestJS), Python/DJango, PHP and ReactJs development, and I'm all about achieving real, solid outcomes. I've got a knack for strategic planning and a wide range of skills across different professional areas.
+- 🌱 My main gig is developing products and projects using NodeJS (ExpressJS, NestJS), Python/DJango, PHP and React, all aimed at helping organizations grow. I put a premium on clear communication, well-organized code, and spot-on design to create projects that really shine in speed, efficiency, and security.
 - 📫 Feel free to contact me at +92-305-3467695, mhamzasakhi@gmail.com, or mhamzasakhi.com
 
 
