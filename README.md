@@ -1,4 +1,4 @@
-👋 Hi, I'm **Muhammad Hamza** – a Full Stack Software Engineer with 5+ years of experience delivering scalable, high-impact web and mobile applications across **Healthcare, Logistics, SaaS, Finance, E-Commerce, and Education** sectors.
+👋 Hi, I'm **Muhammad Hamza** – a Full Stack Software Engineer with 6 years of experience delivering scalable, high-impact web and mobile applications across **Healthcare, Logistics, SaaS, Finance, E-Commerce, and Education** sectors.
 
 🚀 I specialize in:
 - **Languages:** JavaScript, TypeScript, Python, PHP
