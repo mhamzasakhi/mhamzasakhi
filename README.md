@@ -1,8 +1,32 @@
-- 👋 Hi, This is Muhammad Hamza, I'm a Full Stack Engineer
-- 💞️ I've got more than 5 years of experience in NodeJS (ExpressJS, NestJS), Python/DJango, PHP and ReactJs development, and I'm all about achieving real, solid outcomes. I've got a knack for strategic planning and a wide range of skills across different professional areas.
-- 🌱 My main gig is developing products and projects using NodeJS (ExpressJS, NestJS), Python/DJango, PHP and React, all aimed at helping organizations grow. I put a premium on clear communication, well-organized code, and spot-on design to create projects that really shine in speed, efficiency, and security.
-- 📫 Feel free to contact me at +92-305-3467695, mhamzasakhi@gmail.com, or mhamzasakhi.com
+👋 Hi, I'm **Muhammad Hamza** – a Full Stack Software Engineer with 5+ years of experience delivering scalable, high-impact web and mobile applications across **Healthcare, Logistics, SaaS, Finance, E-Commerce, and Education** sectors.
 
+🚀 I specialize in:
+- **Languages:** JavaScript, TypeScript, Python, PHP
+- **Frameworks & Libraries:** React, Next.js, Node.js (Express, NestJS), Django, Laravel
+- **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Jenkins, Git
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, Redis
+- **API Expertise:** RESTful, GraphQL, Hasura
+- **Testing:** Jest, Mocha, Cypress, Vitest
+
+🧠 I bring strong experience in microservices architecture, DevOps practices, and cloud-native application development with an emphasis on **code quality, security, and performance**.
+
+💼 Notable Projects:
+- **AI-Pharmacist (Signature RX):** Built AI-driven prescription workflows with GPT-based drug mapping and NHS integrations.
+- **Signature Pharmacy:** Developed secure backend APIs and integrated UK logistics and healthcare systems (Royal Mail, DPD, DHL, RyftPay).
+- **Catena Logistix:** Created a modern supply chain management platform with real-time tracking, SAP integrations, and predictive analytics for logistics optimization.
+- **Lopic:** Built a dynamic HRMS and locum booking platform, connecting thousands of pharmacies and healthcare professionals.
+- **Unified Office:** Engineered VoIP systems with advanced conferencing and cross-device communication for business clients.
+- **Jazz Business (CMT):** Enhanced bulk messaging platforms for enterprise campaigns with analytics and automation.
+- **Eventme.app:** Delivered a school events platform with Stripe integration and AWS-based deployment.
+
+🌐 Let's Connect:
+- 📧 Email: [mhamzasakhi@gmail.com](mailto:mhamzasakhi@gmail.com)
+- 🌍 Website: [mhamzasakhi.com](https://mhamzasakhi.com)
+- 💼 LinkedIn: [linkedin.com/in/mhamzasakhi](https://linkedin.com/in/mhamzasakhi)
+- 🛠️ GitHub: [github.com/mhamzasakhi](https://github.com/mhamzasakhi)
+- 📱 Phone/WhatsApp: [+92-305-3467695](tel:+923053467695)
+
+---
 
 <!---
 mhamzasakhi/mhamzasakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
